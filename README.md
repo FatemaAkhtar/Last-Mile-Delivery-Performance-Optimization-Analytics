@@ -2,7 +2,7 @@
 
 > **Transforming 5.87M logistics transactions into actionable operational intelligence through interactive Business Intelligence dashboards.**
 
-![Data Model](assets/data-model.png)
+![Data Model](assets/data-model.PNG)
 
 ---
 
