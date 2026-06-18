@@ -87,7 +87,7 @@ This architecture enables reusable business dimensions, efficient filtering, and
 
 Provides a consolidated view of logistics KPIs, operational volume, SLA performance, and executive insights.
 
-![Executive Dashboard](assets/executive-dashboard.png)
+![Executive Dashboard](assets/executive-dashboard.PNG)
 
 ---
 
@@ -95,7 +95,7 @@ Provides a consolidated view of logistics KPIs, operational volume, SLA performa
 
 Monitors operational efficiency through delay analysis, city performance, and service monitoring.
 
-![Operations Control Center](assets/operations-control-center.png)
+![Operations Control Center](assets/operations-control-center.PNG)
 
 ---
 
@@ -103,7 +103,7 @@ Monitors operational efficiency through delay analysis, city performance, and se
 
 Visualizes regional performance through interactive maps, operational summaries, and location-based analytics.
 
-![Geo Intelligence Center](assets/geo-intelligence-center.png)
+![Geo Intelligence Center](assets/geo-intelligence-center.jpeg)
 
 ---
 
@@ -111,7 +111,7 @@ Visualizes regional performance through interactive maps, operational summaries,
 
 Analyzes pickup and delivery patterns across different time periods to identify operational trends and peak activity windows.
 
-![Operational Timing Dashboard](assets/operational-timing-dashboard.png)
+![Operational Timing Dashboard](assets/operational-timing-dashboard.PNG)
 
 ---
 
